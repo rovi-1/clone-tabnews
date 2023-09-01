@@ -1,8 +1,7 @@
-export default function Home(){
-   return (
+export default function Home() {
+  return (
     <div>
-        <h1>Will careca</h1>
-   </div>
+      <h1>Will careca</h1>
+    </div>
   );
-
 }
